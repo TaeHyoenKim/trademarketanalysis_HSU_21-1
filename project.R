@@ -1,1 +1,2 @@
-print('hellowworld')
+seoulbike = read.csv('C:/dataset/SeoulBikeData.csv')
+View(seoulbike)
